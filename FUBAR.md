@@ -6,4 +6,4 @@ This is what Bob & Carol did on Bob’s computer when working on the first featu
 
 This is NEW!
 
-Ted's chance
+This is Bob screwing it up.
